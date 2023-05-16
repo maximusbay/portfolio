@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: serif;
+}
+
+
+
+img {
+  width: 250px;
+  display: block;
+  margin: auto;
+}
+
+header, h1, h2 {
+  text-align: center;
+}
+
+p, ol, ul {
+  line-height: 1.5;
+  width: 40%;
+  display: block;
+  margin: auto;
+}
+
+
+
+footer {
+  font-size:10px;
+}
+
+main {
+  background-color: #f5f5f5;
+}
+
+body {
+  background-color: #FAF0DC;
+}
+
+hr {
+  margin-top: 25px;
+  width: 524px;
+}
+
+nav {
+  padding-bottom: 15px;
+}
+
+footer p {
+  width: 100%;
+}
+
+a:hover {
+  color: orange;
+}
